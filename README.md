@@ -82,7 +82,7 @@ Continuous upskilling is central to my development workflow. I am currently focu
 ### 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-profile-trophy.herokuapp.com/?username=John-Abbas&theme=onedark&column=7&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=John-Abbas&theme=onedark&column=7&no-bg=true" alt="Trophies" />
 </p>
 
 <table align="center">
@@ -96,7 +96,7 @@ Continuous upskilling is central to my development workflow. I am currently focu
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=John-Abbas&theme=dark&hide_border=true&fire=38bdf8&ring=38bdf8&currStreakLabel=38bdf8&sideNums=cbd5e1&sideLabels=cbd5e1&dates=cbd5e1&background=0f172a" alt="GitHub Streak" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=John-Abbas&theme=dark&hide_border=true&fire=38bdf8&ring=38bdf8&currStreakLabel=38bdf8&sideNums=cbd5e1&sideLabels=cbd5e1&dates=cbd5e1&background=0f172a" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
