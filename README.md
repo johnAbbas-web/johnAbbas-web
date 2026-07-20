@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Software+Engineer+@+DouzeTech;⚡+Building+scalable+Web+%26+Mobile+Apps;💻+Next.js+•+Angular+•+Ionic+•+Firebase;📍+Based+in+Pakistan+🇵🇰" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Technical+Consultant+|+🚀+Full+Stack+Developer+;⚡+Building+scalable+Web+%26+Mobile+Apps;💻+Next.js+•+Angular+•+Ionic+•+Firebase;📍+Based+in+Pakistan+🇵🇰" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -73,39 +73,6 @@ Continuous upskilling is central to my development workflow. I am currently focu
   <img src="https://img.shields.io/badge/Mobile_Development-A78BFA?style=for-the-badge&logo=ionic" alt="Mobile Development" />
 </p>
 
----
-
-### 📊 GitHub Activity & Insights
-
-<p align="center">
-  <img src="https://github-profile-trophy.herokuapp.com/?username=John-Abbas&theme=onedark&column=7&no-bg=true" alt="Trophies" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=John-Abbas&show_icons=true&theme=dark&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0f172a" alt="GitHub Stats" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Abbas&layout=compact&theme=dark&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=0f172a" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com/?user=John-Abbas&theme=dark&hide_border=true&fire=38bdf8&ring=38bdf8&currStreakLabel=38bdf8&sideNums=cbd5e1&sideLabels=cbd5e1&dates=cbd5e1&background=0f172a" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 👾 Contribution History
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/John-Abbas/John-Abbas/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
 
 ### 📩 Let's Connect
 
