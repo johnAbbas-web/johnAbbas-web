@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JohnAbbas">
-    <img src="https://komarev.com/normal-badge/?username=JohnAbbas&color=38BDF8&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <a href="https://github.com/John-Abbas">
+    <img src="https://komarev.com/normal-badge/?username=John-Abbas&color=38BDF8&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
   </a>
   <a href="https://linkedin.com/in/john-abbas">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn" />
@@ -82,21 +82,21 @@ Continuous upskilling is central to my development workflow. I am currently focu
 ### 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-profile-trophy.herokuapp.com/?username=JohnAbbas&theme=onedark&column=7&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.herokuapp.com/?username=John-Abbas&theme=onedark&column=7&no-bg=true" alt="Trophies" />
 </p>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=JohnAbbas&show_icons=true&theme=dark&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0f172a" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=John-Abbas&show_icons=true&theme=dark&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0f172a" alt="GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAbbas&layout=compact&theme=dark&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=0f172a" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Abbas&layout=compact&theme=dark&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=0f172a" alt="Top Languages" width="100%" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnAbbas&theme=dark&hide_border=true&fire=38bdf8&ring=38bdf8&currStreakLabel=38bdf8&sideNums=cbd5e1&sideLabels=cbd5e1&dates=cbd5e1&background=0f172a" alt="GitHub Streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=John-Abbas&theme=dark&hide_border=true&fire=38bdf8&ring=38bdf8&currStreakLabel=38bdf8&sideNums=cbd5e1&sideLabels=cbd5e1&dates=cbd5e1&background=0f172a" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
@@ -106,7 +106,7 @@ Continuous upskilling is central to my development workflow. I am currently focu
 ### 👾 Contribution History
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JohnAbbas/JohnAbbas/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/John-Abbas/John-Abbas/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -123,7 +123,7 @@ Continuous upskilling is central to my development workflow. I am currently focu
   <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Portfolio-yourwebsite.com-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/JohnAbbas">
-    <img src="https://img.shields.io/badge/GitHub-JohnAbbas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/John-Abbas">
+    <img src="https://img.shields.io/badge/GitHub-John--Abbas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
