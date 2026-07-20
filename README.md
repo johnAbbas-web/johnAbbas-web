@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="./developer_avatar_1784544114052.png" alt="John Abbas Profile Avatar" width="120" height="120" style="border-radius: 50%;" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Software+Engineer+@+DouzeTech;⚡+Building+scalable+Web+%26+Mobile+Apps;💻+Next.js+•+Angular+•+Ionic+•+Firebase;📍+Based+in+Pakistan+🇵🇰" alt="Typing SVG" />
 </p>
 
@@ -14,7 +10,7 @@
   <a href="https://github.com/John-Abbas">
     <img src="https://komarev.com/normal-badge/?username=John-Abbas&color=38BDF8&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
   </a>
-  <a href="https://linkedin.com/in/john-abbas">
+  <a href="https://linkedin.com/in/john-abbas-a234862a5">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn" />
   </a>
   <a href="mailto:john.hemani786@gmail.com">
@@ -82,7 +78,7 @@ Continuous upskilling is central to my development workflow. I am currently focu
 ### 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=John-Abbas&theme=onedark&column=7&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.herokuapp.com/?username=John-Abbas&theme=onedark&column=7&no-bg=true" alt="Trophies" />
 </p>
 
 <table align="center">
@@ -117,11 +113,11 @@ Continuous upskilling is central to my development workflow. I am currently focu
   <a href="mailto:john.hemani786@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-john.hemani786%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/john-abbas">
-    <img src="https://img.shields.io/badge/LinkedIn-john--abbas-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/john-abbas-a234862a5">
+    <img src="https://img.shields.io/badge/LinkedIn-john--abbas--a234862a5-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Portfolio-yourwebsite.com-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://john-abbas.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-john--abbas.vercel.app-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/John-Abbas">
     <img src="https://img.shields.io/badge/GitHub-John--Abbas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
