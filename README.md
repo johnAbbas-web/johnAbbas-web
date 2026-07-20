@@ -3,13 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Technical+Consultant+|+🚀+Full+Stack+Developer+;⚡+Building+scalable+Web+%26+Mobile+Apps;💻+Next.js+•+Angular+•+Ionic+•+Firebase;📍+Based+in+Pakistan+🇵🇰" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=200&lines=Technical+Consultant+|+🚀+Full+Stack+Developer+;⚡+Building+scalable+Web+%26+Mobile+Apps;💻+Next.js+•+Angular+•+Ionic+•+Firebase;📍+Based+in+Pakistan+🇵🇰" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/John-Abbas">
-    <img src="https://komarev.com/normal-badge/?username=John-Abbas&color=38BDF8&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
-  </a>
   <a href="https://linkedin.com/in/john-abbas-a234862a5">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn" />
   </a>
