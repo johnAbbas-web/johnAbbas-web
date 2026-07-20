@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github_hero_banner_1784544103773.png" alt="John Abbas Hero Banner" width="100%" />
+  <img src="./bg-cover.png" alt="John Abbas Hero Banner" width="100%" />
 </p>
 
 <p align="center">
